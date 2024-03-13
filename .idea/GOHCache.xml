@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Address">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/remote/framework/base/address.go" />
+              <option value="file://$PROJECT_DIR$/remote/framework/base/server_type.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AppInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/common/model/appinfo.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Config">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/remote/framework/engine/config.go" />
+              <option value="file://$PROJECT_DIR$/remote/framework/engine/output.go" />
+              <option value="file://$PROJECT_DIR$/worker/common/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Definition">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/worker/extension/processor/definition.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="HandlerLocation">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/remote/framework/base/handler_location.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Manager">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/worker/core/executor/manager.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OmsLogHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/worker/background/oms_log_handler.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Output">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/remote/framework/engine/output.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PowerJobRemoteEngine">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/remote/framework/engine/powerjob_remote_engine.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PowerJobWorker">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/worker/main.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Runtime">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/worker/common/runtime.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TaskDO">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/worker/persistence/task_do.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TaskResult">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/worker/core/processor/task_result.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="URL">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/remote/framework/base/url.go" />
+              <option value="file://$PROJECT_DIR$/remote/framework/transporter/URL.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/common/model/appinfo.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710233933150" />
+              <option name="schema">
+                <list>
+                  <option value="AppInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/base/address.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710319277647" />
+              <option name="schema">
+                <list>
+                  <option value="Address" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/base/handler_location.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710319246873" />
+              <option name="schema">
+                <list>
+                  <option value="HandlerLocation" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/base/server_type.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710319337365" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/base/url.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710319370948" />
+              <option name="schema">
+                <list>
+                  <option value="URL" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/engine/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710324606484" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/engine/output.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710324672629" />
+              <option name="schema">
+                <list>
+                  <option value="Output" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/engine/powerjob_remote_engine.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710324698045" />
+              <option name="schema">
+                <list>
+                  <option value="PowerJobRemoteEngine" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/engine/remote.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710324865289" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/transporter/URL.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710318731904" />
+              <option name="schema">
+                <list>
+                  <option value="URL" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/transporter/protocol.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710319430204" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/remote/framework/transporter/transporter.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710319698795" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/background/discovery/server_discovery_service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710320949173" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/background/oms_log_handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710321084969" />
+              <option name="schema">
+                <list>
+                  <option value="OmsLogHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/common/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710234573321" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/common/constants/task_status.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710323056019" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/common/runtime.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710324109421" />
+              <option name="schema">
+                <list>
+                  <option value="Runtime" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/core/executor/manager.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710320609054" />
+              <option name="schema">
+                <list>
+                  <option value="Manager" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/core/processor/task_result.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710323335120" />
+              <option name="schema">
+                <list>
+                  <option value="TaskResult" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/extension/processor/definition.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710320042935" />
+              <option name="schema">
+                <list>
+                  <option value="Definition" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710324885494" />
+              <option name="schema">
+                <list>
+                  <option value="PowerJobWorker" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/persistence/task_do.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710322344458" />
+              <option name="schema">
+                <list>
+                  <option value="TaskDO" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/persistence/task_persistence_service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710323466712" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/worker/processor/processor_loader.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1710320271103" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="address" value="Address" />
+        <entry key="app_info" value="AppInfo" />
+        <entry key="config" value="Config" />
+        <entry key="definition" value="Definition" />
+        <entry key="handler_location" value="HandlerLocation" />
+        <entry key="manager" value="Manager" />
+        <entry key="oms_log_handler" value="OmsLogHandler" />
+        <entry key="output" value="Output" />
+        <entry key="power_job_remote_engine" value="PowerJobRemoteEngine" />
+        <entry key="power_job_worker" value="PowerJobWorker" />
+        <entry key="runtime" value="Runtime" />
+        <entry key="task_do" value="TaskDO" />
+        <entry key="task_result" value="TaskResult" />
+        <entry key="url" value="URL" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1710317396995" />
+  </component>
+</project>
